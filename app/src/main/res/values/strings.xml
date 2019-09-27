@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="stringusd">US Dollar</string>
+    <string name="stringaus">Austrailian Dollar</string>
+    <string name="stringeur">Euro</string>
+    <string name="stringyen">Yen</string>
+</resources>
